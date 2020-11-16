@@ -11,7 +11,6 @@ namespace Question2
              int sum = 0;
              for(int i = 0; i <= 255; i++)
                {
-                //   sum += i;
                   Console.Write($"{i} :  {sum += i}");
                   
                 }
