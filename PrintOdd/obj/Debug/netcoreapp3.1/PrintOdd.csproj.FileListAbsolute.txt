@@ -1,0 +1,13 @@
+C:\codebitsacademy\classworks\LabTask14\PrintOdd\bin\Debug\netcoreapp3.1\PrintOdd.exe
+C:\codebitsacademy\classworks\LabTask14\PrintOdd\bin\Debug\netcoreapp3.1\PrintOdd.deps.json
+C:\codebitsacademy\classworks\LabTask14\PrintOdd\bin\Debug\netcoreapp3.1\PrintOdd.runtimeconfig.json
+C:\codebitsacademy\classworks\LabTask14\PrintOdd\bin\Debug\netcoreapp3.1\PrintOdd.runtimeconfig.dev.json
+C:\codebitsacademy\classworks\LabTask14\PrintOdd\bin\Debug\netcoreapp3.1\PrintOdd.dll
+C:\codebitsacademy\classworks\LabTask14\PrintOdd\bin\Debug\netcoreapp3.1\PrintOdd.pdb
+C:\codebitsacademy\classworks\LabTask14\PrintOdd\obj\Debug\netcoreapp3.1\PrintOdd.csprojAssemblyReference.cache
+C:\codebitsacademy\classworks\LabTask14\PrintOdd\obj\Debug\netcoreapp3.1\PrintOdd.csproj.CoreCompileInputs.cache
+C:\codebitsacademy\classworks\LabTask14\PrintOdd\obj\Debug\netcoreapp3.1\PrintOdd.AssemblyInfoInputs.cache
+C:\codebitsacademy\classworks\LabTask14\PrintOdd\obj\Debug\netcoreapp3.1\PrintOdd.AssemblyInfo.cs
+C:\codebitsacademy\classworks\LabTask14\PrintOdd\obj\Debug\netcoreapp3.1\PrintOdd.dll
+C:\codebitsacademy\classworks\LabTask14\PrintOdd\obj\Debug\netcoreapp3.1\PrintOdd.pdb
+C:\codebitsacademy\classworks\LabTask14\PrintOdd\obj\Debug\netcoreapp3.1\PrintOdd.genruntimeconfig.cache

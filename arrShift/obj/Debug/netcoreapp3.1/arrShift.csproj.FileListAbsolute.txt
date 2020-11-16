@@ -1,0 +1,13 @@
+C:\codebitsacademy\classworks\LabTask14\arrShift\obj\Debug\netcoreapp3.1\arrShift.csprojAssemblyReference.cache
+C:\codebitsacademy\classworks\LabTask14\arrShift\obj\Debug\netcoreapp3.1\arrShift.csproj.CoreCompileInputs.cache
+C:\codebitsacademy\classworks\LabTask14\arrShift\obj\Debug\netcoreapp3.1\arrShift.AssemblyInfoInputs.cache
+C:\codebitsacademy\classworks\LabTask14\arrShift\obj\Debug\netcoreapp3.1\arrShift.AssemblyInfo.cs
+C:\codebitsacademy\classworks\LabTask14\arrShift\bin\Debug\netcoreapp3.1\arrShift.exe
+C:\codebitsacademy\classworks\LabTask14\arrShift\bin\Debug\netcoreapp3.1\arrShift.deps.json
+C:\codebitsacademy\classworks\LabTask14\arrShift\bin\Debug\netcoreapp3.1\arrShift.runtimeconfig.json
+C:\codebitsacademy\classworks\LabTask14\arrShift\bin\Debug\netcoreapp3.1\arrShift.runtimeconfig.dev.json
+C:\codebitsacademy\classworks\LabTask14\arrShift\bin\Debug\netcoreapp3.1\arrShift.dll
+C:\codebitsacademy\classworks\LabTask14\arrShift\bin\Debug\netcoreapp3.1\arrShift.pdb
+C:\codebitsacademy\classworks\LabTask14\arrShift\obj\Debug\netcoreapp3.1\arrShift.dll
+C:\codebitsacademy\classworks\LabTask14\arrShift\obj\Debug\netcoreapp3.1\arrShift.pdb
+C:\codebitsacademy\classworks\LabTask14\arrShift\obj\Debug\netcoreapp3.1\arrShift.genruntimeconfig.cache

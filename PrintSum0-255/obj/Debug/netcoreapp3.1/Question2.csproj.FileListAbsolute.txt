@@ -1,0 +1,24 @@
+C:\codebitsacademy\classworks\LabTask14\Question2\obj\Debug\netcoreapp3.1\Question2.csprojAssemblyReference.cache
+C:\codebitsacademy\classworks\LabTask14\Question2\obj\Debug\netcoreapp3.1\Question2.csproj.CoreCompileInputs.cache
+C:\codebitsacademy\classworks\LabTask14\Question2\obj\Debug\netcoreapp3.1\Question2.AssemblyInfoInputs.cache
+C:\codebitsacademy\classworks\LabTask14\Question2\obj\Debug\netcoreapp3.1\Question2.AssemblyInfo.cs
+C:\codebitsacademy\classworks\LabTask14\Question2\bin\Debug\netcoreapp3.1\Question2.exe
+C:\codebitsacademy\classworks\LabTask14\Question2\bin\Debug\netcoreapp3.1\Question2.deps.json
+C:\codebitsacademy\classworks\LabTask14\Question2\bin\Debug\netcoreapp3.1\Question2.runtimeconfig.json
+C:\codebitsacademy\classworks\LabTask14\Question2\bin\Debug\netcoreapp3.1\Question2.runtimeconfig.dev.json
+C:\codebitsacademy\classworks\LabTask14\Question2\bin\Debug\netcoreapp3.1\Question2.dll
+C:\codebitsacademy\classworks\LabTask14\Question2\bin\Debug\netcoreapp3.1\Question2.pdb
+C:\codebitsacademy\classworks\LabTask14\Question2\obj\Debug\netcoreapp3.1\Question2.dll
+C:\codebitsacademy\classworks\LabTask14\Question2\obj\Debug\netcoreapp3.1\Question2.pdb
+C:\codebitsacademy\classworks\LabTask14\Question2\obj\Debug\netcoreapp3.1\Question2.genruntimeconfig.cache
+C:\Users\Matthew\Documents\CodeBits Academy\C#\Lab-Task13\Question2\bin\Debug\netcoreapp3.1\Question2.exe
+C:\Users\Matthew\Documents\CodeBits Academy\C#\Lab-Task13\Question2\bin\Debug\netcoreapp3.1\Question2.deps.json
+C:\Users\Matthew\Documents\CodeBits Academy\C#\Lab-Task13\Question2\bin\Debug\netcoreapp3.1\Question2.runtimeconfig.json
+C:\Users\Matthew\Documents\CodeBits Academy\C#\Lab-Task13\Question2\bin\Debug\netcoreapp3.1\Question2.runtimeconfig.dev.json
+C:\Users\Matthew\Documents\CodeBits Academy\C#\Lab-Task13\Question2\bin\Debug\netcoreapp3.1\Question2.dll
+C:\Users\Matthew\Documents\CodeBits Academy\C#\Lab-Task13\Question2\bin\Debug\netcoreapp3.1\Question2.pdb
+C:\Users\Matthew\Documents\CodeBits Academy\C#\Lab-Task13\Question2\obj\Debug\netcoreapp3.1\Question2.csprojAssemblyReference.cache
+C:\Users\Matthew\Documents\CodeBits Academy\C#\Lab-Task13\Question2\obj\Debug\netcoreapp3.1\Question2.AssemblyInfoInputs.cache
+C:\Users\Matthew\Documents\CodeBits Academy\C#\Lab-Task13\Question2\obj\Debug\netcoreapp3.1\Question2.AssemblyInfo.cs
+C:\Users\Matthew\Documents\CodeBits Academy\C#\Lab-Task13\Question2\obj\Debug\netcoreapp3.1\Question2.dll
+C:\Users\Matthew\Documents\CodeBits Academy\C#\Lab-Task13\Question2\obj\Debug\netcoreapp3.1\Question2.pdb

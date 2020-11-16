@@ -1,0 +1,13 @@
+C:\codebitsacademy\classworks\LabTask14\MaxMinAverage\obj\Debug\netcoreapp3.1\MaxMinAverage.csprojAssemblyReference.cache
+C:\codebitsacademy\classworks\LabTask14\MaxMinAverage\obj\Debug\netcoreapp3.1\MaxMinAverage.csproj.CoreCompileInputs.cache
+C:\codebitsacademy\classworks\LabTask14\MaxMinAverage\obj\Debug\netcoreapp3.1\MaxMinAverage.AssemblyInfoInputs.cache
+C:\codebitsacademy\classworks\LabTask14\MaxMinAverage\obj\Debug\netcoreapp3.1\MaxMinAverage.AssemblyInfo.cs
+C:\codebitsacademy\classworks\LabTask14\MaxMinAverage\bin\Debug\netcoreapp3.1\MaxMinAverage.exe
+C:\codebitsacademy\classworks\LabTask14\MaxMinAverage\bin\Debug\netcoreapp3.1\MaxMinAverage.deps.json
+C:\codebitsacademy\classworks\LabTask14\MaxMinAverage\bin\Debug\netcoreapp3.1\MaxMinAverage.runtimeconfig.json
+C:\codebitsacademy\classworks\LabTask14\MaxMinAverage\bin\Debug\netcoreapp3.1\MaxMinAverage.runtimeconfig.dev.json
+C:\codebitsacademy\classworks\LabTask14\MaxMinAverage\bin\Debug\netcoreapp3.1\MaxMinAverage.dll
+C:\codebitsacademy\classworks\LabTask14\MaxMinAverage\bin\Debug\netcoreapp3.1\MaxMinAverage.pdb
+C:\codebitsacademy\classworks\LabTask14\MaxMinAverage\obj\Debug\netcoreapp3.1\MaxMinAverage.dll
+C:\codebitsacademy\classworks\LabTask14\MaxMinAverage\obj\Debug\netcoreapp3.1\MaxMinAverage.pdb
+C:\codebitsacademy\classworks\LabTask14\MaxMinAverage\obj\Debug\netcoreapp3.1\MaxMinAverage.genruntimeconfig.cache
